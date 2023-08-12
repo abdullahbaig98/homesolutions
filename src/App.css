@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+/* ContactForm.css */
+.contact-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-image {
+  flex: 1;
+  max-width: 50%;
+  padding: 20px;
+}
+
+.contact-form {
+  flex: 1;
+  max-width: 50%;
+  padding: 20px;
+}
